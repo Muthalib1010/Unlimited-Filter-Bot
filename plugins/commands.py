@@ -217,7 +217,8 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🔰GROUP🔰", url="https://t.me/MOVIE_ARCADE")
+                    InlineKeyboardButton("Group", url="https://t.me/MOVIEARCADE")
+                    InlineKeyboardButton("Channel", url="https://t.me/arcade_links")
                 ]
             ]
         ),
